@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nefSPD8oWoTcTlGgUUHfOkbo3GrSN9c1xIx6n+mG/Rg7tmLGZRDCypy3XqHy9SeXXxGvYJda0qC0Bki+x45jog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yfunck.VIX\\source\\repos\\OData_Jibble_ConsoleOutput\\API_Manager\\API_Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yfunck.VIX\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API_Manager\API_Manager.csproj" />
+    <ProjectReference Include="..\UserInformation\UserInformation.csproj" />
+  </ItemGroup>
+
+</Project>

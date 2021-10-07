@@ -1,0 +1,12 @@
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\bin\Debug\net5.0\API_Manager.deps.json
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\bin\Debug\net5.0\API_Manager.dll
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\bin\Debug\net5.0\ref\API_Manager.dll
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\bin\Debug\net5.0\API_Manager.pdb
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\API_Manager.csproj.AssemblyReference.cache
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\API_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\API_Manager.AssemblyInfoInputs.cache
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\API_Manager.AssemblyInfo.cs
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\API_Manager.csproj.CoreCompileInputs.cache
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\API_Manager.dll
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\ref\API_Manager.dll
+C:\Users\yfunck.VIX\source\repos\OData_Jibble_ConsoleOutput\API_Manager\obj\Debug\net5.0\API_Manager.pdb
